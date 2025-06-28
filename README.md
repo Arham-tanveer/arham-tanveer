@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arham Tanveer
 
 A passionate **Full Stack Developer** and AI enthusiast from Pakistan 🇵🇰  
-I build robust web applications, craft mobile experiences, and enjoy solving real-world problems using code.
+I build robust web apps, craft mobile experiences, and enjoy solving real-world problems using code.
 
 ---
 
@@ -58,11 +58,11 @@ I build robust web applications, craft mobile experiences, and enjoy solving rea
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=arham-tanveer&theme=tokyonight&hide_border=false&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arham-tanveer&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arham-tanveer&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=arham-tanveer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arham-tanveer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arham-tanveer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
